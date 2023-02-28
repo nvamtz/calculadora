@@ -23,4 +23,4 @@ En este proyecto me enfoqué en construir una calculadora con las operaciones b�
 Aprender a implementar el código abierto de Bootstrap y complementarlo con código de JavaScript
 
 ## 4. Link a Demo
-Aquí puedes visualizar mi proyecto terminado: [Calculadora](https://clonaciongoogle.netlify.app/)
+Aquí puedes visualizar mi proyecto terminado: [Calculadora](https://calculadora-javascript-d93e93.netlify.app/)
